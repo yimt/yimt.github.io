@@ -79,6 +79,12 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+sitemap:
+    path: sitemap.xml
 theme: pacman
 exclude_generator:
 
