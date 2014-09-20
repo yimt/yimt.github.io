@@ -12,7 +12,7 @@ language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yimt.github.io/
+url: http://live.tyim.tk/
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -79,8 +79,8 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-
-theme: freemind
+# #freemind  pacman
+theme: jacman
 exclude_generator:
 Plugins:
 - hexo-generator-feed
