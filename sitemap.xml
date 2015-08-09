@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://live.tyim.tk/MyPhoto/index.html</loc>
+    <lastmod>2015-08-09T16:44:23.555Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://live.tyim.tk/MyMovie/index.html</loc>
     <lastmod>2015-08-09T16:20:00.454Z</lastmod>
   </url>
