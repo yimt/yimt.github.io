@@ -247,7 +247,7 @@
     <link href="http://live.tyim.tk/2014/08/13/f-13-autoclearing-config/"/>
     <id>http://live.tyim.tk/2014/08/13/f-13-autoclearing-config/</id>
     <published>2014-08-12T16:05:17.000Z</published>
-    <updated>2015-02-03T16:02:46.303Z</updated>
+    <updated>2015-08-26T19:15:42.744Z</updated>
     <content type="html"><![CDATA[<p>FI 自动清账F.13配置<br>业务说明：绝大多数清账还是需要我们手工来选择，即需要人工来判断对应关系，系统判定规则不易定或非常复杂，典型的是多笔付款对应多笔收货，总金额不一致需要剩余或部分清账。自动清账就是规则相对固定简单，系统能判断出对应的业务规则做清账动作，如对应几笔的借贷方金额一致且满足条件业务范围和业务伙伴要一致。如果数量巨大的话手工清就是个没有效率的机械动作而且毫无意义，用自动清账会非常合适，典型的就是采购单GR/IR科目。</p>
 <p>自动清账配置：前提是清账业务正常运行，即科目已经设置未清项管理（统驭科目不设置）等只是启用自动清账功能。</p>
 <p>实现业务场景：实现同一供应商付款基准日一致、金额一致就可清账。</p>
@@ -264,7 +264,7 @@
     
       <category term="FICO" scheme="http://live.tyim.tk/tags/FICO/"/>
     
-      <category term="sap" scheme="http://live.tyim.tk/categories/sap/"/>
+      <category term="Sap" scheme="http://live.tyim.tk/categories/Sap/"/>
     
   </entry>
   
