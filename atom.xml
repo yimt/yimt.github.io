@@ -5,7 +5,7 @@
   <subtitle><![CDATA[Busy to live or busy to die ？That's a question.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://live.tyim.tk//"/>
-  <updated>2016-03-29T16:12:38.256Z</updated>
+  <updated>2016-04-06T14:18:06.598Z</updated>
   <id>http://live.tyim.tk//</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[清明]]></title>
+    <link href="http://live.tyim.tk/2016/03/29/qing-ming/"/>
+    <id>http://live.tyim.tk/2016/03/29/qing-ming/</id>
+    <published>2016-03-29T15:56:31.000Z</published>
+    <updated>2016-04-06T14:18:06.598Z</updated>
+    <content type="html"><![CDATA[<p>清明回家扫墓<br>扑面的江南气息<br><img src="http://tyim.qiniudn.com/2016-04-03 133453.jpg-480" alt=""><br><img src="http://tyim.qiniudn.com/2016-04-04 065432.jpg-480" alt=""><br><img src="http://tyim.qiniudn.com/2016-04-04 065626.jpg-480" alt=""><br><img src="http://tyim.qiniudn.com/2016-04-04 065438.jpg-480" alt=""><br><img src="http://tyim.qiniudn.com/2016-04-04 065500.jpg-480" alt=""><br><img src="http://tyim.qiniudn.com/2016-03-30 095349.jpg-480" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>清明回家扫墓<br>扑面的江南气息<br><img src="http://tyim.qiniudn.com/2016-04-03 133453.jpg-480" alt=""><br><img src="http://tyim.qiniudn.com/2016-04-04]]>
+    </summary>
+    
+      <category term="life" scheme="http://live.tyim.tk/tags/life/"/>
+    
+      <category term="life" scheme="http://live.tyim.tk/categories/life/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[春]]></title>
@@ -50,31 +68,6 @@
       <category term="好听" scheme="http://live.tyim.tk/tags/%E5%A5%BD%E5%90%AC/"/>
     
       <category term="web" scheme="http://live.tyim.tk/categories/web/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[我读•我看•我玩•我听•我拍•我用]]></title>
-    <link href="http://live.tyim.tk/2015/08/03/mylife/"/>
-    <id>http://live.tyim.tk/2015/08/03/mylife/</id>
-    <published>2015-08-03T03:39:35.000Z</published>
-    <updated>2015-08-28T02:56:01.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="用的软件">用的软件</h3><ul>
-<li>VMware</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<h3 id="用的软件">用的软件</h3><ul>
-<li>VMware</li>
-</ul>
-]]>
-    </summary>
-    
-      <category term="乐趣" scheme="http://live.tyim.tk/tags/%E4%B9%90%E8%B6%A3/"/>
-    
-      <category term="生活" scheme="http://live.tyim.tk/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="Life" scheme="http://live.tyim.tk/categories/Life/"/>
     
   </entry>
   
